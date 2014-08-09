@@ -1,0 +1,1021 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="   ">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    
+    
+    <title>india-election-data/state-wise-turnout.csv at master · datameet/india-election-data · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="datameet/india-election-data" name="twitter:title" /><meta content="india-election-data - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India." name="twitter:description" /><meta content="https://avatars0.githubusercontent.com/u/1920325?v=2&amp;s=400" name="twitter:image:src" />
+<meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars0.githubusercontent.com/u/1920325?v=2&amp;s=400" property="og:image" /><meta content="datameet/india-election-data" property="og:title" /><meta content="https://github.com/datameet/india-election-data" property="og:url" /><meta content="india-election-data - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India." property="og:description" />
+
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    <link rel="conduit-xhr" href="https://ghconduit.com:25035">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+      <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="75C32F6E:4A6E:2D202AF:53E628EA" name="octolytics-dimension-request_id" />
+    
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="ycUa7Vs+7PzaTKRVgW7RChZXTi7rfwiFe8V5yFW2X/763YELHuleygtImvWBpXyIdGmbK8bnkfCDTPheesWs1w==" name="csrf-token" />
+
+    <link href="https://assets-cdn.github.com/assets/github-96f71b0eb03ec944c77f1fed94f5ff336680911f.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://assets-cdn.github.com/assets/github2-b855c0b37e346d3dac214385acbf7f00a78096db.css" media="all" rel="stylesheet" type="text/css" />
+    
+
+
+    <meta http-equiv="x-pjax-version" content="9991cf6fc7bc85ef78fb987898c45e56">
+
+      
+  <meta name="description" content="india-election-data - To map publicly available datasets related to General Assembly (Lok Sabha) elections in India.">
+
+
+  <meta content="1920325" name="octolytics-dimension-user_id" /><meta content="datameet" name="octolytics-dimension-user_login" /><meta content="14710984" name="octolytics-dimension-repository_id" /><meta content="datameet/india-election-data" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="14710984" name="octolytics-dimension-repository_network_root_id" /><meta content="datameet/india-election-data" name="octolytics-dimension-repository_network_root_nwo" />
+
+  <link href="https://github.com/datameet/india-election-data/commits/master.atom" rel="alternate" title="Recent Commits to india-election-data:master" type="application/atom+xml">
+
+  </head>
+
+
+  <body class="logged_out  env-production  vis-public page-blob">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+      
+
+
+      
+      <div class="header header-logged-out">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions">
+        <a class="button primary" href="/join">Sign up</a>
+      <a class="button signin" href="/login?return_to=%2Fdatameet%2Findia-election-data%2Fblob%2Fmaster%2Fparliament-elections%2Felection2014%2Fstate-wise-turnout.csv">Sign in</a>
+    </div>
+
+    <div class="command-bar js-command-bar  in-repository">
+
+      <ul class="top-nav">
+          <li class="explore"><a href="/explore">Explore</a></li>
+          <li class="features"><a href="/features">Features</a></li>
+          <li class="enterprise"><a href="https://enterprise.github.com/">Enterprise</a></li>
+          <li class="blog"><a href="/blog">Blog</a></li>
+      </ul>
+        <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
+
+<div class="commandbar">
+  <span class="message"></span>
+  <input type="text" data-hotkey="s, /" name="q" id="js-command-bar-field" placeholder="Search or type a command" tabindex="1" autocapitalize="off"
+    
+    
+    data-repo="datameet/india-election-data"
+  >
+  <div class="display hidden"></div>
+</div>
+
+    <input type="hidden" name="nwo" value="datameet/india-election-data">
+
+    <div class="select-menu js-menu-container js-select-menu search-context-select-menu">
+      <span class="minibutton select-menu-button js-menu-target" role="button" aria-haspopup="true">
+        <span class="js-select-button">This repository</span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container" aria-hidden="true">
+        <div class="select-menu-modal">
+
+          <div class="select-menu-item js-navigation-item js-this-repository-navigation-item selected">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" class="js-search-this-repository" name="search_target" value="repository" checked="checked">
+            <div class="select-menu-item-text js-select-button-text">This repository</div>
+          </div> <!-- /.select-menu-item -->
+
+          <div class="select-menu-item js-navigation-item js-all-repositories-navigation-item">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" name="search_target" value="global">
+            <div class="select-menu-item-text js-select-button-text">All repositories</div>
+          </div> <!-- /.select-menu-item -->
+
+        </div>
+      </div>
+    </div>
+
+  <span class="help tooltipped tooltipped-s" aria-label="Show command bar help">
+    <span class="octicon octicon-question"></span>
+  </span>
+
+
+  <input type="hidden" name="ref" value="cmdform">
+
+</form>
+    </div>
+
+  </div>
+</div>
+
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    <div id="js-flash-container">
+      
+    </div>
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+        
+<ul class="pagehead-actions">
+
+
+  <li>
+      <a href="/login?return_to=%2Fdatameet%2Findia-election-data"
+    class="minibutton with-count star-button tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <span class="octicon octicon-star"></span>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/datameet/india-election-data/stargazers">
+      25
+    </a>
+
+  </li>
+
+    <li>
+      <a href="/login?return_to=%2Fdatameet%2Findia-election-data"
+        class="minibutton with-count js-toggler-target fork-button tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-repo-forked"></span>
+        Fork
+      </a>
+      <a href="/datameet/india-election-data/network" class="social-count">
+        18
+      </a>
+    </li>
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <span class="mega-octicon octicon-repo"></span>
+          <span class="author"><a href="/datameet" class="url fn" itemprop="url" rel="author"><span itemprop="title">datameet</span></a></span><!--
+       --><span class="path-divider">/</span><!--
+       --><strong><a href="/datameet/india-election-data" class="js-current-repository js-repo-home-link">india-election-data</a></strong>
+
+          <span class="page-context-loader">
+            <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+      <div class="repository-with-sidebar repo-container new-discussion-timeline  ">
+        <div class="repository-sidebar clearfix">
+            
+
+<div class="sunken-menu vertical-right repo-nav js-repo-nav js-repository-container-pjax js-octicon-loaders" data-issue-count-url="/datameet/india-election-data/issues/counts">
+  <div class="sunken-menu-contents">
+    <ul class="sunken-menu-group">
+      <li class="tooltipped tooltipped-w" aria-label="Code">
+        <a href="/datameet/india-election-data" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-pjax="true" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /datameet/india-election-data">
+          <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+        <li class="tooltipped tooltipped-w" aria-label="Issues">
+          <a href="/datameet/india-election-data/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /datameet/india-election-data/issues">
+            <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+            <span class="js-issue-replace-counter"></span>
+            <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Pull Requests">
+        <a href="/datameet/india-election-data/pulls" aria-label="Pull Requests" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-hotkey="g p" data-selected-links="repo_pulls /datameet/india-election-data/pulls">
+            <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
+            <span class="js-pull-replace-counter"></span>
+            <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+    </ul>
+    <div class="sunken-menu-separator"></div>
+    <ul class="sunken-menu-group">
+
+      <li class="tooltipped tooltipped-w" aria-label="Pulse">
+        <a href="/datameet/india-election-data/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="pulse /datameet/india-election-data/pulse">
+          <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Graphs">
+        <a href="/datameet/india-election-data/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="repo_graphs repo_contributors /datameet/india-election-data/graphs">
+          <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+    </ul>
+
+
+  </div>
+</div>
+
+              <div class="only-with-full-nav">
+                
+
+  
+
+<div class="clone-url open"
+  data-protocol-type="http"
+  data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
+  <h3><strong>HTTPS</strong> clone URL</h3>
+  <div class="input-group">
+    <input type="text" class="input-mini input-monospace js-url-field"
+           value="https://github.com/datameet/india-election-data.git" readonly="readonly">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="https://github.com/datameet/india-election-data.git" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+
+<div class="clone-url "
+  data-protocol-type="subversion"
+  data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
+  <h3><strong>Subversion</strong> checkout URL</h3>
+  <div class="input-group">
+    <input type="text" class="input-mini input-monospace js-url-field"
+           value="https://github.com/datameet/india-election-data" readonly="readonly">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="https://github.com/datameet/india-election-data" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+<p class="clone-options">You can clone with
+      <a href="#" class="js-clone-selector" data-protocol="http">HTTPS</a>
+      or <a href="#" class="js-clone-selector" data-protocol="subversion">Subversion</a>.
+  <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+    <span class="octicon octicon-question"></span>
+  </a>
+</p>
+
+
+
+                <a href="/datameet/india-election-data/archive/master.zip"
+                   class="minibutton sidebar-button"
+                   aria-label="Download datameet/india-election-data as a zip file"
+                   title="Download datameet/india-election-data as a zip file"
+                   rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download ZIP
+                </a>
+              </div>
+        </div><!-- /.repository-sidebar -->
+
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+          
+
+
+<a href="/datameet/india-election-data/blob/8623133c92e2788aba4c575b64bcd1d3294964dd/parliament-elections/election2014/state-wise-turnout.csv" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+<!-- blob contrib key: blob_contributors:v21:58bc632666a895c1b088a68f3e35c7e5 -->
+
+<div class="file-navigation">
+  
+
+<div class="select-menu js-menu-container js-select-menu" >
+  <span class="minibutton select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    data-master-branch="master"
+    data-ref="master"
+    title="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <span class="octicon octicon-git-branch"></span>
+    <i>branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+      </div> <!-- /.select-menu-header -->
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" class="js-select-menu-tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" class="js-select-menu-tab">Tags</a>
+            </li>
+          </ul>
+        </div><!-- /.select-menu-tabs -->
+      </div><!-- /.select-menu-filters -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item selected">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/datameet/india-election-data/blob/master/parliament-elections/election2014/state-wise-turnout.csv"
+                 data-name="master"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="master">master</a>
+            </div> <!-- /.select-menu-item -->
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+    </div> <!-- /.select-menu-modal -->
+  </div> <!-- /.select-menu-modal-holder -->
+</div> <!-- /.select-menu -->
+
+  <div class="button-group right">
+    <a href="/datameet/india-election-data/find/master"
+          class="js-show-file-finder minibutton empty-icon tooltipped tooltipped-s"
+          data-pjax
+          data-hotkey="t"
+          aria-label="Quickly jump between files">
+      <span class="octicon octicon-list-unordered"></span>
+    </a>
+    <button class="js-zeroclipboard minibutton zeroclipboard-button"
+          data-clipboard-text="parliament-elections/election2014/state-wise-turnout.csv"
+          aria-label="Copy to clipboard"
+          data-copied-hint="Copied!">
+      <span class="octicon octicon-clippy"></span>
+    </button>
+  </div>
+
+  <div class="breadcrumb">
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/datameet/india-election-data" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">india-election-data</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/datameet/india-election-data/tree/master/parliament-elections" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">parliament-elections</span></a></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/datameet/india-election-data/tree/master/parliament-elections/election2014" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">election2014</span></a></span><span class="separator"> / </span><strong class="final-path">state-wise-turnout.csv</strong>
+  </div>
+</div>
+
+
+  <div class="commit file-history-tease">
+      <img alt="Pratap Vardhan" class="main-avatar" data-user="3757165" height="24" src="https://avatars1.githubusercontent.com/u/3757165?v=2&amp;s=48" width="24" />
+      <span class="author"><a href="/pratapvardhan" rel="contributor">pratapvardhan</a></span>
+      <time datetime="2014-05-21T23:12:26+05:30" is="relative-time">May 21, 2014</time>
+      <div class="commit-title">
+          <a href="/datameet/india-election-data/commit/1395945a7d4ee83413aa012fb9b4b4e58fd6c213" class="message" data-pjax="true" title="Add turnout state-wise and pc-wise csv files">Add turnout state-wise and pc-wise csv files</a>
+      </div>
+
+    <div class="participation">
+      <p class="quickstat"><a href="#blob_contributors_box" rel="facebox"><strong>1</strong>  contributor</a></p>
+      
+
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list">
+          <li class="facebox-user-list-item">
+            <img alt="Pratap Vardhan" data-user="3757165" height="24" src="https://avatars1.githubusercontent.com/u/3757165?v=2&amp;s=48" width="24" />
+            <a href="/pratapvardhan">pratapvardhan</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="file-box">
+  <div class="file">
+    <div class="meta clearfix">
+      <div class="info file-name">
+          <span>37 lines (36 sloc)</span>
+          <span class="meta-divider"></span>
+        <span>3.759 kb</span>
+      </div>
+      <div class="actions">
+        <div class="button-group">
+          <a href="/datameet/india-election-data/raw/master/parliament-elections/election2014/state-wise-turnout.csv" class="minibutton " id="raw-url">Raw</a>
+            <a href="/datameet/india-election-data/blame/master/parliament-elections/election2014/state-wise-turnout.csv" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/datameet/india-election-data/commits/master/parliament-elections/election2014/state-wise-turnout.csv" class="minibutton " rel="nofollow">History</a>
+        </div><!-- /.button-group -->
+
+
+            <a class="octicon-button disabled tooltipped tooltipped-w" href="#"
+               aria-label="You must be signed in to make or propose changes"><span class="octicon octicon-pencil"></span></a>
+
+          <a class="octicon-button danger disabled tooltipped tooltipped-w" href="#"
+             aria-label="You must be signed in to make or propose changes">
+          <span class="octicon octicon-trashcan"></span>
+        </a>
+      </div><!-- /.actions -->
+    </div>
+      
+  <div class="blob-wrapper data type-text">
+      
+<div class="blob-interaction-bar">
+  <span class="octicon octicon-search"></span>
+  <input type="text" name="filter" class="js-csv-filter-field blob-filter" placeholder="Search this file..." autocapitalize="off">
+</div>
+
+<div class="markdown-body">
+  <table class="js-csv-data csv-data js-file-line-container">
+    <thead>
+      <tr id="LC1" class="js-file-line">
+        <td id="L1" class="blob-line-num js-line-number" data-line-number="1"></td>
+        <th>State</th>
+        <th>Male Electors</th>
+        <th>Male Voters</th>
+        <th>Male Turnout</th>
+        <th>Female Electors</th>
+        <th>Female Voters</th>
+        <th>Female Turnout</th>
+        <th>Total Electors</th>
+        <th>Total Voters</th>
+        <th>Total Turnout</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr id="LC2" class="js-file-line">
+        <td id="L2" class="blob-line-num js-line-number" data-line-number="2"></td>
+        <td>Andaman &amp; Nicobar Islands</td>
+        <td>1,42,782</td>
+        <td>1,01,178</td>
+        <td>70.86%</td>
+        <td>1,26,578</td>
+        <td>89,150</td>
+        <td>70.43%</td>
+        <td>2,69,360</td>
+        <td>1,90,328</td>
+        <td>70.66%</td>
+      </tr>
+      <tr id="LC3" class="js-file-line">
+        <td id="L3" class="blob-line-num js-line-number" data-line-number="3"></td>
+        <td>Andhra Pradesh</td>
+        <td>326,70,930</td>
+        <td>243,52,913</td>
+        <td>74.54%</td>
+        <td>322,67,820</td>
+        <td>240,05,632</td>
+        <td>74.39%</td>
+        <td>649,38,750</td>
+        <td>483,58,545</td>
+        <td>74.47%</td>
+      </tr>
+      <tr id="LC4" class="js-file-line">
+        <td id="L4" class="blob-line-num js-line-number" data-line-number="4"></td>
+        <td>Arunachal Pradesh</td>
+        <td>3,79,627</td>
+        <td>2,89,291</td>
+        <td>76.20%</td>
+        <td>3,79,760</td>
+        <td>3,07,665</td>
+        <td>81.02%</td>
+        <td>7,59,387</td>
+        <td>5,96,956</td>
+        <td>78.61%</td>
+      </tr>
+      <tr id="LC5" class="js-file-line">
+        <td id="L5" class="blob-line-num js-line-number" data-line-number="5"></td>
+        <td>Assam</td>
+        <td>97,87,209</td>
+        <td>78,76,763</td>
+        <td>80.48%</td>
+        <td>90,98,065</td>
+        <td>72,09,120</td>
+        <td>79.24%</td>
+        <td>188,85,274</td>
+        <td>150,85,883</td>
+        <td>79.88%</td>
+      </tr>
+      <tr id="LC6" class="js-file-line">
+        <td id="L6" class="blob-line-num js-line-number" data-line-number="6"></td>
+        <td>Bihar</td>
+        <td>340,92,938</td>
+        <td>187,79,230</td>
+        <td>55.08%</td>
+        <td>296,68,858</td>
+        <td>171,06,136</td>
+        <td>57.66%</td>
+        <td>637,61,796</td>
+        <td>358,85,366</td>
+        <td>56.28%</td>
+      </tr>
+      <tr id="LC7" class="js-file-line">
+        <td id="L7" class="blob-line-num js-line-number" data-line-number="7"></td>
+        <td>Chandigarh</td>
+        <td>3,33,621</td>
+        <td>2,44,956</td>
+        <td>73.42%</td>
+        <td>2,81,593</td>
+        <td>2,08,499</td>
+        <td>74.04%</td>
+        <td>6,15,214</td>
+        <td>4,53,455</td>
+        <td>73.71%</td>
+      </tr>
+      <tr id="LC8" class="js-file-line">
+        <td id="L8" class="blob-line-num js-line-number" data-line-number="8"></td>
+        <td>Chattisgarh</td>
+        <td>89,15,783</td>
+        <td>63,20,693</td>
+        <td>70.89%</td>
+        <td>87,07,266</td>
+        <td>59,34,886</td>
+        <td>68.16%</td>
+        <td>176,23,049</td>
+        <td>122,55,579</td>
+        <td>69.54%</td>
+      </tr>
+      <tr id="LC9" class="js-file-line">
+        <td id="L9" class="blob-line-num js-line-number" data-line-number="9"></td>
+        <td>Dadra &amp; Nagar Haveli</td>
+        <td>1,06,215</td>
+        <td>87,800</td>
+        <td>82.66%</td>
+        <td>90,402</td>
+        <td>77,486</td>
+        <td>85.71%</td>
+        <td>1,96,617</td>
+        <td>1,65,286</td>
+        <td>84.06%</td>
+      </tr>
+      <tr id="LC10" class="js-file-line">
+        <td id="L10" class="blob-line-num js-line-number" data-line-number="10"></td>
+        <td>Daman &amp; Diu</td>
+        <td>57,011</td>
+        <td>42,378</td>
+        <td>74.33%</td>
+        <td>54,816</td>
+        <td>44,855</td>
+        <td>81.83%</td>
+        <td>1,11,827</td>
+        <td>87,233</td>
+        <td>78.01%</td>
+      </tr>
+      <tr id="LC11" class="js-file-line">
+        <td id="L11" class="blob-line-num js-line-number" data-line-number="11"></td>
+        <td>Goa</td>
+        <td>5,28,308</td>
+        <td>3,95,766</td>
+        <td>74.91%</td>
+        <td>5,32,469</td>
+        <td>4,21,234</td>
+        <td>79.11%</td>
+        <td>10,60,777</td>
+        <td>8,17,000</td>
+        <td>77.02%</td>
+      </tr>
+      <tr id="LC12" class="js-file-line">
+        <td id="L12" class="blob-line-num js-line-number" data-line-number="12"></td>
+        <td>Gujarat</td>
+        <td>212,29,092</td>
+        <td>142,59,115</td>
+        <td>67.17%</td>
+        <td>193,74,012</td>
+        <td>115,64,888</td>
+        <td>59.69%</td>
+        <td>406,03,104</td>
+        <td>258,24,003</td>
+        <td>63.60%</td>
+      </tr>
+      <tr id="LC13" class="js-file-line">
+        <td id="L13" class="blob-line-num js-line-number" data-line-number="13"></td>
+        <td>Haryana</td>
+        <td>87,16,612</td>
+        <td>63,51,584</td>
+        <td>72.87%</td>
+        <td>73,81,137</td>
+        <td>51,43,566</td>
+        <td>69.69%</td>
+        <td>160,97,749</td>
+        <td>114,95,150</td>
+        <td>71.41%</td>
+      </tr>
+      <tr id="LC14" class="js-file-line">
+        <td id="L14" class="blob-line-num js-line-number" data-line-number="14"></td>
+        <td>Himachal Pradesh</td>
+        <td>24,74,430</td>
+        <td>15,69,632</td>
+        <td>63.43%</td>
+        <td>23,35,641</td>
+        <td>15,28,869</td>
+        <td>65.46%</td>
+        <td>48,10,071</td>
+        <td>30,98,501</td>
+        <td>64.42%</td>
+      </tr>
+      <tr id="LC15" class="js-file-line">
+        <td id="L15" class="blob-line-num js-line-number" data-line-number="15"></td>
+        <td>Jammu &amp; Kashmir</td>
+        <td>38,02,021</td>
+        <td>19,27,584</td>
+        <td>50.70%</td>
+        <td>34,00,142</td>
+        <td>16,39,279</td>
+        <td>48.21%</td>
+        <td>72,02,163</td>
+        <td>35,66,863</td>
+        <td>49.52%</td>
+      </tr>
+      <tr id="LC16" class="js-file-line">
+        <td id="L16" class="blob-line-num js-line-number" data-line-number="16"></td>
+        <td>Jharkhand</td>
+        <td>106,85,149</td>
+        <td>68,60,476</td>
+        <td>64.21%</td>
+        <td>96,41,594</td>
+        <td>61,22,464</td>
+        <td>63.50%</td>
+        <td>203,26,743</td>
+        <td>129,82,940</td>
+        <td>63.87%</td>
+      </tr>
+      <tr id="LC17" class="js-file-line">
+        <td id="L17" class="blob-line-num js-line-number" data-line-number="17"></td>
+        <td>Karnataka</td>
+        <td>235,86,223</td>
+        <td>161,65,832</td>
+        <td>68.54%</td>
+        <td>226,25,886</td>
+        <td>148,73,056</td>
+        <td>65.73%</td>
+        <td>462,12,109</td>
+        <td>310,38,888</td>
+        <td>67.17%</td>
+      </tr>
+      <tr id="LC18" class="js-file-line">
+        <td id="L18" class="blob-line-num js-line-number" data-line-number="18"></td>
+        <td>Kerala</td>
+        <td>117,34,258</td>
+        <td>86,78,185</td>
+        <td>73.96%</td>
+        <td>125,92,391</td>
+        <td>92,97,708</td>
+        <td>73.84%</td>
+        <td>243,26,649</td>
+        <td>179,75,893</td>
+        <td>73.89%</td>
+      </tr>
+      <tr id="LC19" class="js-file-line">
+        <td id="L19" class="blob-line-num js-line-number" data-line-number="19"></td>
+        <td>Lakshadweep</td>
+        <td>25,433</td>
+        <td>21,585</td>
+        <td>84.87%</td>
+        <td>24,489</td>
+        <td>21,654</td>
+        <td>88.42%</td>
+        <td>49,922</td>
+        <td>43,239</td>
+        <td>86.61%</td>
+      </tr>
+      <tr id="LC20" class="js-file-line">
+        <td id="L20" class="blob-line-num js-line-number" data-line-number="20"></td>
+        <td>Madhya Pradesh</td>
+        <td>253,09,830</td>
+        <td>167,34,556</td>
+        <td>66.12%</td>
+        <td>228,08,210</td>
+        <td>129,05,240</td>
+        <td>56.58%</td>
+        <td>481,18,040</td>
+        <td>296,39,796</td>
+        <td>61.60%</td>
+      </tr>
+      <tr id="LC21" class="js-file-line">
+        <td id="L21" class="blob-line-num js-line-number" data-line-number="21"></td>
+        <td>Maharashtra</td>
+        <td>427,43,156</td>
+        <td>267,14,578</td>
+        <td>62.50%</td>
+        <td>379,74,127</td>
+        <td>220,04,266</td>
+        <td>57.95%</td>
+        <td>807,17,283</td>
+        <td>487,18,844</td>
+        <td>60.36%</td>
+      </tr>
+      <tr id="LC22" class="js-file-line">
+        <td id="L22" class="blob-line-num js-line-number" data-line-number="22"></td>
+        <td>Manipur</td>
+        <td>8,71,431</td>
+        <td>6,85,427</td>
+        <td>78.66%</td>
+        <td>9,02,894</td>
+        <td>7,27,210</td>
+        <td>80.54%</td>
+        <td>17,74,325</td>
+        <td>14,12,637</td>
+        <td>79.62%</td>
+      </tr>
+      <tr id="LC23" class="js-file-line">
+        <td id="L23" class="blob-line-num js-line-number" data-line-number="23"></td>
+        <td>Meghalaya</td>
+        <td>7,77,639</td>
+        <td>5,24,774</td>
+        <td>67.48%</td>
+        <td>7,89,602</td>
+        <td>5,53,284</td>
+        <td>70.07%</td>
+        <td>15,67,241</td>
+        <td>10,78,058</td>
+        <td>68.79%</td>
+      </tr>
+      <tr id="LC24" class="js-file-line">
+        <td id="L24" class="blob-line-num js-line-number" data-line-number="24"></td>
+        <td>Mizoram</td>
+        <td>3,46,219</td>
+        <td>2,16,167</td>
+        <td>62.44%</td>
+        <td>3,55,951</td>
+        <td>2,17,034</td>
+        <td>60.97%</td>
+        <td>7,02,170</td>
+        <td>4,33,201</td>
+        <td>61.69%</td>
+      </tr>
+      <tr id="LC25" class="js-file-line">
+        <td id="L25" class="blob-line-num js-line-number" data-line-number="25"></td>
+        <td>Nagaland</td>
+        <td>6,00,490</td>
+        <td>5,29,325</td>
+        <td>88.15%</td>
+        <td>5,82,458</td>
+        <td>5,09,585</td>
+        <td>87.49%</td>
+        <td>11,82,948</td>
+        <td>10,38,910</td>
+        <td>87.82%</td>
+      </tr>
+      <tr id="LC26" class="js-file-line">
+        <td id="L26" class="blob-line-num js-line-number" data-line-number="26"></td>
+        <td>NCT OF Delhi</td>
+        <td>70,51,098</td>
+        <td>46,53,522</td>
+        <td>66%</td>
+        <td>56,60,138</td>
+        <td>36,18,244</td>
+        <td>63.93%</td>
+        <td>127,11,236</td>
+        <td>82,71,766</td>
+        <td>65.07%</td>
+      </tr>
+      <tr id="LC27" class="js-file-line">
+        <td id="L27" class="blob-line-num js-line-number" data-line-number="27"></td>
+        <td>Orissa</td>
+        <td>151,94,309</td>
+        <td>110,32,523</td>
+        <td>72.61%</td>
+        <td>140,01,732</td>
+        <td>104,99,752</td>
+        <td>74.99%</td>
+        <td>291,96,041</td>
+        <td>215,32,275</td>
+        <td>73.75%</td>
+      </tr>
+      <tr id="LC28" class="js-file-line">
+        <td id="L28" class="blob-line-num js-line-number" data-line-number="28"></td>
+        <td>Puducherry</td>
+        <td>4,32,048</td>
+        <td>3,51,360</td>
+        <td>81.32%</td>
+        <td>4,69,309</td>
+        <td>3,88,657</td>
+        <td>82.81%</td>
+        <td>9,01,357</td>
+        <td>7,40,017</td>
+        <td>82.10%</td>
+      </tr>
+      <tr id="LC29" class="js-file-line">
+        <td id="L29" class="blob-line-num js-line-number" data-line-number="29"></td>
+        <td>Punjab</td>
+        <td>103,27,116</td>
+        <td>72,62,625</td>
+        <td>70.33%</td>
+        <td>92,80,892</td>
+        <td>65,82,507</td>
+        <td>70.93%</td>
+        <td>196,08,008</td>
+        <td>138,45,132</td>
+        <td>70.61%</td>
+      </tr>
+      <tr id="LC30" class="js-file-line">
+        <td id="L30" class="blob-line-num js-line-number" data-line-number="30"></td>
+        <td>Rajasthan</td>
+        <td>226,38,323</td>
+        <td>146,27,976</td>
+        <td>64.62%</td>
+        <td>203,31,124</td>
+        <td>124,82,068</td>
+        <td>61.39%</td>
+        <td>429,69,447</td>
+        <td>271,10,044</td>
+        <td>63.09%</td>
+      </tr>
+      <tr id="LC31" class="js-file-line">
+        <td id="L31" class="blob-line-num js-line-number" data-line-number="31"></td>
+        <td>Sikkim</td>
+        <td>1,90,886</td>
+        <td>1,58,222</td>
+        <td>82.89%</td>
+        <td>1,79,725</td>
+        <td>1,50,745</td>
+        <td>83.88%</td>
+        <td>3,70,611</td>
+        <td>3,08,967</td>
+        <td>83.37%</td>
+      </tr>
+      <tr id="LC32" class="js-file-line">
+        <td id="L32" class="blob-line-num js-line-number" data-line-number="32"></td>
+        <td>Tamil Nadu</td>
+        <td>275,71,785</td>
+        <td>202,49,949</td>
+        <td>73.44%</td>
+        <td>275,42,720</td>
+        <td>203,70,491</td>
+        <td>73.96%</td>
+        <td>551,14,505</td>
+        <td>406,20,440</td>
+        <td>73.70%</td>
+      </tr>
+      <tr id="LC33" class="js-file-line">
+        <td id="L33" class="blob-line-num js-line-number" data-line-number="33"></td>
+        <td>Tripura</td>
+        <td>12,17,575</td>
+        <td>10,35,722</td>
+        <td>85.06%</td>
+        <td>11,71,244</td>
+        <td>9,88,137</td>
+        <td>84.37%</td>
+        <td>23,88,819</td>
+        <td>20,23,859</td>
+        <td>84.72%</td>
+      </tr>
+      <tr id="LC34" class="js-file-line">
+        <td id="L34" class="blob-line-num js-line-number" data-line-number="34"></td>
+        <td>Uttar Pradesh</td>
+        <td>760,71,444</td>
+        <td>449,79,619</td>
+        <td>59.13%</td>
+        <td>628,94,376</td>
+        <td>361,12,683</td>
+        <td>57.42%</td>
+        <td>1389,65,820</td>
+        <td>810,92,302</td>
+        <td>58.35%</td>
+      </tr>
+      <tr id="LC35" class="js-file-line">
+        <td id="L35" class="blob-line-num js-line-number" data-line-number="35"></td>
+        <td>Uttarakhand</td>
+        <td>37,51,098</td>
+        <td>22,68,767</td>
+        <td>60.48%</td>
+        <td>33,78,841</td>
+        <td>21,23,123</td>
+        <td>62.84%</td>
+        <td>71,29,939</td>
+        <td>43,91,890</td>
+        <td>61.60%</td>
+      </tr>
+      <tr id="LC36" class="js-file-line">
+        <td id="L36" class="blob-line-num js-line-number" data-line-number="36"></td>
+        <td>West Bengal</td>
+        <td>326,89,449</td>
+        <td>268,86,706</td>
+        <td>82.25%</td>
+        <td>301,43,679</td>
+        <td>247,35,849</td>
+        <td>82.06%</td>
+        <td>628,33,128</td>
+        <td>516,22,555</td>
+        <td>82.16%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </div>
+
+  </div>
+</div>
+
+<a href="#jump-to-line" rel="facebox[.linejump]" data-hotkey="l" style="display:none">Jump to Line</a>
+<div id="jump-to-line" style="display:none">
+  <form accept-charset="UTF-8" class="js-jump-to-line-form">
+    <input class="linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" autofocus>
+    <button type="submit" class="button">Go</button>
+  </form>
+</div>
+
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div><!-- /.container -->
+  </div><!-- /.site -->
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer">
+    <ul class="site-footer-links right">
+      <li><a href="https://status.github.com/">Status</a></li>
+      <li><a href="http://developer.github.com">API</a></li>
+      <li><a href="http://training.github.com">Training</a></li>
+      <li><a href="http://shop.github.com">Shop</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/about">About</a></li>
+
+    </ul>
+
+    <a href="/" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+    </a>
+
+    <ul class="site-footer-links">
+      <li>&copy; 2014 <span title="0.02889s from github-fe133-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="/site/terms">Terms</a></li>
+        <li><a href="/site/privacy">Privacy</a></li>
+        <li><a href="/security">Security</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div><!-- /.site-footer -->
+</div><!-- /.container -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-suggester-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents js-suggester-field" placeholder=""></textarea>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-x close js-ajax-error-dismiss" aria-label="Dismiss error"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-12d5fda141e78e513749dddbc56445fe172cbd9a.js" type="text/javascript"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-cd771a23c0ba85a1956f1a2611664cf19a9c6554.js" type="text/javascript"></script>
+      
+      
+        <script async src="https://www.google-analytics.com/analytics.js"></script>
+  </body>
+</html>
+
